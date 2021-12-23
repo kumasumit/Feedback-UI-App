@@ -1,4 +1,4 @@
-# Created a Beautiful Feedback UI Web App
+# A Beautiful React Feedback UI Web App
 
 This is a good Feedback UI Web App made with React, React-Router, Framer Motion, React-Icons and
 Context-Api.
